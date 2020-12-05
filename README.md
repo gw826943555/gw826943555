@@ -1,5 +1,5 @@
 # Welcome to William's GitHub Profile
-Hello, there 👋. My name is William, and I am from China. I am Embedded Software Engineer.
+Hello, there 👋. My name is William, and I am from China. I am learning Embedded Software Development.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gw826943555&show_icons=true&count_private=true&line_height=28&theme=material" alt="Oever González's GitHub stats"/>
@@ -7,7 +7,7 @@ Hello, there 👋. My name is William, and I am from China. I am Embedded Softwa
 </p>
 
 ## Currently working on
-Currently, I am an active student at <a href="https://microverse.org"><img align="baseline" alt="Microverse" src="https://img.shields.io/static/v1?label=Microverse&message=Apply%20Now&color=6F23FF&?style=plastic"></a>. Also, I make community builds of <a href="https://openwrt.org"><img align="baseline" alt="OpenWrt" src="https://img.shields.io/static/v1?label=OpenWrt&message=Wireless%20Freedom&color=00A3E1&?style=plastic"></a> for some devices with IPQ40xx and MT7621 CPUs.
+Currently, I am an student at <a href="https://www.usst.edu.cn/"><img align="baseline" alt="USST" src="https://img.shields.io/static/v1?label=USST&message=Apply%20Now&color=6F23FF&?style=plastic"></a>.
 
 ## Contact me
 You can reach me via GitHub. If you have any problem with the code I build, please open a GitHub Issue or send me an email. My email is in my GitHub profile. You can use the buttons bellow to reach me via other social networks and have some fun!
